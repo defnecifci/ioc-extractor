@@ -15,6 +15,7 @@ Girişte defanged/obfuscated kalıpları (ör. `hxxp`, `[.]`, `(.)`) kısmen **r
 python ioc_extractor.py samples.txt
 python ioc_extractor.py notes1.txt notes2.txt -o out.txt
 cat logs.txt | python ioc_extractor.py --stdin
+```
 
 ## Örnek çıktı (iocs.txt)
 # IOCs — IPv4
