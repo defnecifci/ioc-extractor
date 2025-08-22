@@ -18,10 +18,10 @@ cat logs.txt | python ioc_extractor.py --stdin
 ```
 
 ## Örnek çıktı (iocs.txt)
-# IOCs — IPv4
+###  IOCs — IPv4
 8.8.8.8
 1.1.1.1
 
-# IOCs — Domains
+###  IOCs — Domains
 example.com
 login.example.com
